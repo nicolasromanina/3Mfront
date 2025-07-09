@@ -42,7 +42,7 @@ Une application web complète pour la gestion de services d'impression avec inte
 ```bash
 # Cloner le projet
 git clone <repository-url>
-cd print-management-app
+cd 3Mfront
 
 # Installer les dépendances
 npm install
